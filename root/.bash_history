@@ -20,3 +20,4 @@ docker ps
 docker ps -a
 docker start exciting_heyrovsky
 docker attach exciting_heyrovsky
+git push -u origin master
